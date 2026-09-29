@@ -58,7 +58,7 @@ class ProfilPage extends StatelessWidget {
 
                 // Nama lengkap
                 const Text(
-                  'Ni Kadek Okta Pioni',
+                  'Ni Putu Purnia Dewi',
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
@@ -69,7 +69,7 @@ class ProfilPage extends StatelessWidget {
 
                 // NIM
                 const Text(
-                  'NIM: 202463121008',
+                  'NIM: 202463121009',
                   style: TextStyle(
                     fontSize: 16,
                     color: Colors.black54,
